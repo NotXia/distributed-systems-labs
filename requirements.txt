@@ -1,0 +1,6 @@
+setuptools==67.2.0
+networkx==3.2.1
+numpy==1.25.0
+scipy==1.12.0
+matplotlib==3.5.0
+control==0.10.1
